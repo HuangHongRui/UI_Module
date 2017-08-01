@@ -1,0 +1,25 @@
+
+    ul,li{
+      list-style:none;
+    }
+    .container{
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .container:after{
+    	content: '';
+    	display: block;
+    	clear: both;
+    }
+    .container li{
+      float: left;
+      margin: 10px 10px;
+    }
+    .container li img{
+      width: 550px;
+      height: 460px;
+    }
+    p{
+      margin: 30px;
+    }
+  
