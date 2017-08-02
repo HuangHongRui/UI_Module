@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.img-preview{
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.img-row {
+  margin-bottom: 8px;
+}
+
+.img-row:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.img-box {
+  float: left;
+}
+
+.img-line .img-box:first-child {
+  padding-left: 0;
+}
