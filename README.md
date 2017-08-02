@@ -1,6 +1,6 @@
 # UI_Module
 
-- 写的一些组件,整理一下,便于使用.:octocat:
+- 整理好写的一些封装组件,以便于使用.:octocat:
 
 [AddMore | 加载更多](https://huanghongrui.github.io/UI_Module/AddMore%20%7C%20%E5%8A%A0%E8%BD%BD%E6%9B%B4%E5%A4%9A/index.html)
 
