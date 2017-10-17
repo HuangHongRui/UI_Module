@@ -16,7 +16,7 @@
 
 6. [Wooden  木桶流](./Wooden%20%7C%20木桶流/index.html)
 
-7. [Expose | 曝光](./Expose%20%7C%20%E6%9B%9D%E5%85%89/index.html)
+7. [Expose  曝光](./Expose%20%7C%20%E6%9B%9D%E5%85%89/index.html)
 
 8. [GoTop  匀速置顶](./GoTop%20%7C%20%E5%8C%80%E9%80%9F%E7%BD%AE%E9%A1%B6/index.html)
 
