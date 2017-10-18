@@ -12,8 +12,10 @@
 4. [Carousel  渐变轮播](./Carousel%20%7C%20%E6%B8%90%E5%8F%98%E8%BD%AE%E6%92%AD/index.html)
 
 5. [Cascade  瀑布流](./Cascade%20%7C%20%E7%80%91%E5%B8%83%E6%B5%81/index.html)
+ - [有意思的瀑布](./Cascade%20%7C%20%E7%80%91%E5%B8%83%E6%B5%81/Cascade/index.html)
 
 6. [Wooden  木桶流](./Wooden%20%7C%20木桶流/index.html)
+ - [有意思的木桶](./Wooden%20%7C%20木桶流/Wooden/index.html)
 
 7. [Expose  曝光](./Expose%20%7C%20%E6%9B%9D%E5%85%89/index.html)
 

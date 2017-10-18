@@ -1,0 +1,43 @@
+
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+#ct {
+  width: 1318px
+}
+
+.row:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.box {
+  float: left;
+}
+
+#hide {
+  /*visibility: hidden;*/
+  height: 10px;
+  widows: 10px;
+  border: solid 2px ;
+}
+.top {
+  position: fixed;
+  top: 50%;
+  transform:translateY(-50%); 
+  right: 10px;
+  cursor: pointer;
+  height:80px;
+  line-height: 80px;
+  padding: 10px;
+  border-radius: 40px;
+  opacity: 0.5;
+  background-color: rgba(255,255,0,0.6);
+  font-weight: 800;
+  display: none;
+}
+
