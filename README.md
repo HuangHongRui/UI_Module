@@ -7,9 +7,9 @@
 
 2. [Calendar  日历](./Calendar/index.html)
 
-3. [Carousel  左右轮播](./Carousel/index.html)
+3. [Carousel  左右轮播](./Carousel_1/index.html)
 
-4. [Carousel  渐变轮播](./Carousel/index.html)
+4. [Carousel  渐变轮播](./Carousel_2/index.html)
 
 5. [Cascade  瀑布流](./Cascade/index.html)
  - [ 有意思的瀑布 ](./Cascade/Cascade/index.html)
